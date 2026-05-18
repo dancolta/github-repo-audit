@@ -2,6 +2,8 @@
   <img src="docs/cover-8bit.gif" width="900" alt="8-bit arcade-style cover: a CRT terminal showing 'REPO AUDIT — 5 AGENTS · 1 VERDICT' flanked by 5 pixel-art specialist sprites (Comp, Market, Prod, UX, SEO), with severity stamps (CRITICAL, HIGH, MED) below" />
 </div>
 
+<div align="center">
+
 # github-repo-audit
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Claude Code Skill](https://img.shields.io/badge/Claude_Code-Skill-orange)](https://docs.anthropic.com/en/docs/claude-code) [![GitHub stars](https://img.shields.io/github/stars/dancolta/github-repo-audit?style=social)](https://github.com/dancolta/github-repo-audit)
@@ -9,6 +11,8 @@
 **Audits your GitHub repo's public surface across 5 dimensions, in parallel.**
 
 *For solo OSS maintainers whose working product is buried under a weak README.*
+
+</div>
 
 > **What this isn't:** a code linter, a security scanner, or a generic LLM "rewrite my README" prompt. It looks at how your repo is *perceived* — by humans skimming GitHub, by Google, and by AI engines summarizing your project. Nothing else.
 
