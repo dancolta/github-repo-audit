@@ -8,8 +8,7 @@
 
 > **What this isn't:** a code linter, a security scanner, or a generic LLM "rewrite my README" prompt. It looks at how your repo is *perceived* — by humans skimming GitHub, by Google, and by AI engines summarizing your project. Nothing else.
 
-<!-- HERO: terminal cast pending render via /claude-gif. Until then, the Mermaid fan-out below is the visual anchor. -->
-<!-- <img src="docs/hero.gif" width="960" alt="github-repo-audit producing a severity-ranked issue list with 5 specialist agents in parallel" /> -->
+<img src="docs/hero.gif" width="960" alt="github-repo-audit producing a severity-ranked issue list with 5 specialist agents in parallel — end-frame shows the approval gate before any changes are written" />
 
 Your README should feel like [ripgrep](https://github.com/BurntSushi/ripgrep)'s or [bat](https://github.com/sharkdp/bat)'s — opinionated, scannable, and confident about what it is and isn't. Not like a SaaS landing page.
 
