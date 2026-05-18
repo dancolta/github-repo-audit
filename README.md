@@ -1,3 +1,5 @@
+<img src="docs/cover-8bit.gif" width="100%" alt="8-bit arcade-style cover: a CRT terminal showing 'REPO AUDIT — 5 AGENTS · 1 VERDICT' flanked by 5 pixel-art specialist sprites (Comp, Market, Prod, UX, SEO), with severity stamps (CRITICAL, HIGH, MED) below" />
+
 # github-repo-audit
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Claude Code Skill](https://img.shields.io/badge/Claude_Code-Skill-orange)](https://docs.anthropic.com/en/docs/claude-code) [![GitHub stars](https://img.shields.io/github/stars/dancolta/github-repo-audit?style=social)](https://github.com/dancolta/github-repo-audit)
