@@ -1,4 +1,6 @@
-<img src="docs/cover-8bit.gif" width="100%" alt="8-bit arcade-style cover: a CRT terminal showing 'REPO AUDIT — 5 AGENTS · 1 VERDICT' flanked by 5 pixel-art specialist sprites (Comp, Market, Prod, UX, SEO), with severity stamps (CRITICAL, HIGH, MED) below" />
+<div align="center">
+  <img src="docs/cover-8bit.gif" width="900" alt="8-bit arcade-style cover: a CRT terminal showing 'REPO AUDIT — 5 AGENTS · 1 VERDICT' flanked by 5 pixel-art specialist sprites (Comp, Market, Prod, UX, SEO), with severity stamps (CRITICAL, HIGH, MED) below" />
+</div>
 
 # github-repo-audit
 
