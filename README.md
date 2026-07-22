@@ -140,3 +140,7 @@ MIT — see [LICENSE](LICENSE).
 
 Built by [Dan Colta](https://github.com/dancolta) as a Claude Code skill. Bug reports: [issues](https://github.com/dancolta/github-repo-audit/issues).
 </content>
+
+---
+
+> Made by [NodeSparks](https://www.nodesparks.com) — [custom AI tools & automations](https://www.nodesparks.com) that replace the SaaS subscriptions eating your team's time.
